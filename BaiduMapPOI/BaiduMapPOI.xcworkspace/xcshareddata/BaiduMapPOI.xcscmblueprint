@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B0DB0DE4C9EBC12520908A2C74DA351F6AC2D4C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B0DB0DE4C9EBC12520908A2C74DA351F6AC2D4C2" : 9223372036854775807,
+    "DF1B98CAC79AC1EDB8C298A093BE1C2D25E2EB6D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "16FE6738-511A-444C-99D2-BC336D82E8BE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B0DB0DE4C9EBC12520908A2C74DA351F6AC2D4C2" : "baidumappoi\/",
+    "DF1B98CAC79AC1EDB8C298A093BE1C2D25E2EB6D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BaiduMapPOI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BaiduMapPOI\/BaiduMapPOI.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:MrDaiM\/baidumappoi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0DB0DE4C9EBC12520908A2C74DA351F6AC2D4C2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.oschina.net:MrDaiM\/Weibo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DF1B98CAC79AC1EDB8C298A093BE1C2D25E2EB6D"
+    }
+  ]
+}
